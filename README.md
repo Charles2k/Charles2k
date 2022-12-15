@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Charles2k
-- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on a remote project
 - 📫 How to reach me ejeabochachikodili@gmail.com
